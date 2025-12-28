@@ -195,12 +195,11 @@ streamlit run app.py
 
 ⦁	Translating data into actionable insights
 
-▶️ How to Run the Project (Local Setup)
-
 ### Dataset
 
 The dataset `Processed_food_order.csv` is large, so it has been compressed into `Processed_food_order.zip`. 
 
+▶️ How to Run the Project (Local Setup)
 
 1️⃣ Create MySQL Database
 
@@ -238,3 +237,4 @@ streamlit run app.py
 Open your browser and visit:
 
 http://localhost:8501
+
