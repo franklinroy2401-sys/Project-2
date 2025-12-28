@@ -126,6 +126,7 @@ After feature engineering, the processed dataset was loaded into MySQL, and 15 b
  14. Payment mode preferences
 
  15. Cancellation reason analysis
+     
 4️⃣ Streamlit Dashboard
 
 An interactive Streamlit dashboard was built using the processed data.
@@ -238,5 +239,6 @@ streamlit run app.py
 Open your browser and visit:
 
 http://localhost:8501
+
 
 
