@@ -52,6 +52,7 @@ MySQL
 Streamlit
 
 Project Workflow
+
 1️⃣ Exploratory Data Analysis (EDA)
 
 Data type validation
@@ -237,4 +238,5 @@ streamlit run app.py
 Open your browser and visit:
 
 http://localhost:8501
+
 
